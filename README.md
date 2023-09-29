@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Monsur Temi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src"https://res.cloudinary.com/dutvrzezk/image/upload/v1695946266/dif_uddzr0.jpg"
+
   <a href="https://www.linkedin.com/in/temitech001/"><h1 align="center">Hi 👋, I'm Monsur Temi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
